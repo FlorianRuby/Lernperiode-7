@@ -22,7 +22,7 @@ Arbeitspakete für 01.11.2024
 *Arbeitspakete der ganzen Gruppe*
 
 ## Plannung
-Arbeitspakete für 01.11.2024
+Arbeitspakete für 08.11.2024
 
 - [ ] Dialog Fenster aussäubern
 - [ ] Coins sind sammelbar (gehen weg, sobald aufgenommen)
