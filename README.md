@@ -18,6 +18,17 @@ Arbeitspakete für 01.11.2024
 - [ ] Gegner bewegen sich in Richtung Spieler
 - [ ] Armor slots in Inventar
 - [ ] Spieler hat HP
+      
+*Arbeitspakete der ganzen Gruppe*
 
+## Plannung
+Arbeitspakete für 01.11.2024
+
+- [ ] Dialog Fenster aussäubern
+- [ ] Coins sind sammelbar (gehen weg, sobald aufgenommen)
+- [ ] Anzeige für die Anzahl gesammelter Coins
+- [ ] Coins spawnen automatisch auf der Map
+      
+✍️ Heute habe ich mit Mateo an Rüstungsslots gearbeitet und danach habe ich ein Dialog Fenster erstellt, welches erscheint, wenn man in der nähe des eines Buches ist und E drückt. 
 
 Danach: Attacke von Gegner reduziert HP, Armor gibt mehr Base HP, Spieler regeneriert HP, mehr Booster Items, 
