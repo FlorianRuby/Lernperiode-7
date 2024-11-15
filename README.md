@@ -35,9 +35,9 @@ Arbeitspakete für 08.11.2024
 
 Arbeitspakete für 15.11.2024
 
-- [ ] Tilemap für andere Level erstellen
-- [ ] Andere Level "bauen"
-- [ ] Grafik für Bücher einfügen
-- [ ] Bücher überall platzieren
+- [ ] Tilemap für Stage 0 erstellen
+- [ ] Stage 0 "bauen"
+- [ ] Tilemap für Stage 1 erstellen
+- [ ] Stage 1 "bauen"
       
 Danach: Attacke von Gegner reduziert HP, Armor gibt mehr Base HP, Spieler regeneriert HP, mehr Booster Items, 
