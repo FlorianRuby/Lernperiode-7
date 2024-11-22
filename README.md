@@ -44,8 +44,8 @@ Arbeitspakete für 15.11.2024
 
 Arbeitspakete für 15.11.2024
 
-- [ ] Gegner einfügen
-- [ ] Gegner gehen zu Spieler
+- [X] Gegner einfügen
+- [X] Gegner gehen zum Spieler
 - [ ] Gegner attackieren Spieler
 - [ ] Spieler verliert HP
 (Das machen wir alle zusammen, da es ein wichtiger Bestandteil ist)
