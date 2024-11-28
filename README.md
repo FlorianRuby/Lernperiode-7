@@ -33,6 +33,7 @@ Arbeitspakete für 08.11.2024
 
 ✍️ Heute habe ich die mechanics der Coins erstellt. Sie sind nun überall auf der Map und man kann sie einsammeln, wenn man über diese läuft. Mann sieht aussersdem auch wie viele Coins man eingesammelt hat. 
 
+## Plannung 
 Arbeitspakete für 15.11.2024
 
 - [x] Tilemap für Stage 0 erstellen
@@ -42,12 +43,20 @@ Arbeitspakete für 15.11.2024
 
 ✍️ Heute habe ich die Karte erweitert und eine stage mehr erstellt. Ich habe es allerdings nicht geschafft, eine weitere stage hinzuzufügen. 
 
+## Plannung
 Arbeitspakete für 15.11.2024
 
 - [X] Gegner einfügen
 - [X] Gegner gehen zum Spieler
 - [ ] Gegner attackieren Spieler
 - [ ] Spieler verliert HP
-(Das machen wir alle zusammen, da es ein wichtiger Bestandteil ist)
-      
+(Das machen wir alle zusammen, da es ein wichtiger Bestandteil 
+
+✍️ Heute haben wir mit den Gegnern angefangen, jedoch konnten wir diese nicht ganz fertig stellen. Die Gegner bewegen sich jetzt in Richtung Spieler und verfolgen ihn, weder Gegner noch Spieler verlieren jedoch HP.
+
+## Plannung
+- [ ] An M294 LB arbeiten
+
+
+
 Danach: Attacke von Gegner reduziert HP, Armor gibt mehr Base HP, Spieler regeneriert HP, mehr Booster Items, 
