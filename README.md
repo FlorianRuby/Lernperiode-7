@@ -3,7 +3,7 @@
 # Leit-Satz
 Wir (Mateo, Robin und ich) wollen weiter an unserem Godot Spiel arbeiten und das zu einem akzeptablen Stand bringen. Wenn wir das geschafft haben, will ich an dem JS Modul weiterarbeiten und JS üben. 
 
-## Plannung
+## Planung
 Arbeitspakete für 25.10.2024
 
 - [X] Bewegungs animation erstellen
@@ -11,7 +11,7 @@ Arbeitspakete für 25.10.2024
 
 ✍️ Heute konnten wir die Bewegungs Animation für alle Richtungen implementieren und auch den bereits geschriebenen Inventar Code in das Haupt Projekt einfügen.
 
-## Plannung
+## Planung
 Arbeitspakete für 01.11.2024
 
 - [ ] Gegner erstellen
@@ -23,7 +23,7 @@ Arbeitspakete für 01.11.2024
 
 *Arbeitspakete der ganzen Gruppe*
 
-## Plannung
+## Planung
 Arbeitspakete für 08.11.2024
 
 - [X] Dialog Fenster aussäubern
@@ -33,7 +33,7 @@ Arbeitspakete für 08.11.2024
 
 ✍️ Heute habe ich die mechanics der Coins erstellt. Sie sind nun überall auf der Map und man kann sie einsammeln, wenn man über diese läuft. Mann sieht aussersdem auch wie viele Coins man eingesammelt hat. 
 
-## Plannung 
+## Planung 
 Arbeitspakete für 15.11.2024
 
 - [x] Tilemap für Stage 0 erstellen
@@ -43,8 +43,8 @@ Arbeitspakete für 15.11.2024
 
 ✍️ Heute habe ich die Karte erweitert und eine stage mehr erstellt. Ich habe es allerdings nicht geschafft, eine weitere stage hinzuzufügen. 
 
-## Plannung
-Arbeitspakete für 15.11.2024
+## Planung
+Arbeitspakete für 22.11.2024
 
 - [X] Gegner einfügen
 - [X] Gegner gehen zum Spieler
@@ -54,8 +54,12 @@ Arbeitspakete für 15.11.2024
 
 ✍️ Heute haben wir mit den Gegnern angefangen, jedoch konnten wir diese nicht ganz fertig stellen. Die Gegner bewegen sich jetzt in Richtung Spieler und verfolgen ihn, weder Gegner noch Spieler verlieren jedoch HP.
 
-## Plannung
+## Planung
+Arbeitspakete für 29.11.2024
 - [ ] An M294 LB arbeiten
+
+
+
 
 
 
