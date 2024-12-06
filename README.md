@@ -56,7 +56,7 @@ Arbeitspakete für 22.11.2024
 
 ## Planung
 Arbeitspakete für 29.11.2024
-- [ ] An M346 LB arbeiten
+- [X] An M346 LB arbeiten
 
 ✍️ Heute haben wir an der LB gearbeitet und die Drupal Webseite eingerichtet.
 
