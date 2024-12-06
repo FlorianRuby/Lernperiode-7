@@ -56,8 +56,16 @@ Arbeitspakete für 22.11.2024
 
 ## Planung
 Arbeitspakete für 29.11.2024
-- [ ] An M294 LB arbeiten
+- [ ] An M346 LB arbeiten
 
+✍️ Heute haben wir an der LB gearbeitet und die Drupal Webseite eingerichtet.
+
+## Planung
+Arbeitspakete für 06.12.2024
+- [ ] Gegner attackieren Spieler
+- [ ] Spieler verliert HP
+- [ ] Spieler kann attackieren
+- [ ] Gegner verliert HP
 
 
 
