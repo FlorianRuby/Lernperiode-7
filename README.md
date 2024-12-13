@@ -64,7 +64,3 @@ Arbeitspakete für 29.11.2024
 13.12.2024
 
 ✍️ Heute habe ich zusammen mit Mika und Mateo am AoC gearbeitet. 
-
-
-
-Danach: Attacke von Gegner reduziert HP, Armor gibt mehr Base HP, Spieler regeneriert HP, mehr Booster Items, 
