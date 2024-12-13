@@ -61,13 +61,9 @@ Arbeitspakete für 29.11.2024
 ✍️ Heute haben wir an der LB gearbeitet und die Drupal Webseite eingerichtet.
 
 ## Planung
-Arbeitspakete für 06.12.2024
-- [ ] Gegner attackieren Spieler
-- [ ] Spieler verliert HP
-- [ ] Spieler kann attackieren
-- [ ] Gegner verliert HP
+13.12.2024
 
-
+✍️ Heute habe ich zusammen mit Mika und Mateo am AoC gearbeitet. 
 
 
 
