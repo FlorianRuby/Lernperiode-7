@@ -64,3 +64,14 @@ Arbeitspakete für 29.11.2024
 13.12.2024
 
 ✍️ Heute habe ich zusammen mit Mika und Mateo am AoC gearbeitet. 
+
+## Planung
+20.12.2024
+
+✍️ Heute habe ich am weiter am AoC gearbeitet und Tag 14 geschafft.
+
+# Abschluss
+In dieser Lernperiode habe ich zusammen mit Herr Muic und Herr Taing weiter an unserem Godot Projekt weiter gearbeitet. Allerdings lief dies nicht so gut da man in Godot schlecht zusammen arbeiten kann. Ich habe auch am 29.11 and er LB für das Modul 294 gearbeitet und danach nur noch am AoC getüfftelt. 
+In der nächsten Lernperiode will ich unbedingt nicht mehr an den Modulen im Lernatelier arbeiten und möchte entweder eine Webseite erstellen oder mit der LastFM api in python arbeiten. 
+
+
